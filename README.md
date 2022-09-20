@@ -1,2 +1,2 @@
 # rapaclass
-This is 'Cha jin woo'
+This is 'Jinwoo Cha'
